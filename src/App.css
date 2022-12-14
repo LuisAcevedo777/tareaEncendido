@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.paisaje{
+    margin-top: 4rem;
+    margin-left: 15rem;
+    width: 71rem;
+    height: 47rem;
+    background-repeat: no-repeat; 
+}
+ body{
+  width: 79.9rem;
+height: 47rem;
+
+ }
+
+ 
+ button{
+     width: 10rem;
+     height: 3rem;
+     
+ }
+
+
+
+  p{
+      z-index: 20;
+  }
+  
+  img.sol{
+    margin-top: -9rem;
+    margin-left: -13rem;
+    margin-bottom: 0;
+}
+
+
+ 
+ 
